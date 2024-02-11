@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/06/2e/66/062e66b2573b46d4d7b83944b64a356c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeprad&label=Profile%20views&color=0e75b6&style=flat" alt="sreeprad" /> </p>
 
-🎓 Tech Grad 🛠️ PCB Design, Python<br>🧠 Concept to Design Expert<br>💼 Real Projects Enthusiast<br>🚀 GATE & ECE Aspirant 📶<br>🔍 Mission-Driven Innovator
+🎓 Tech Grad 🛠️ PCB Design, Python<br>🧠 Concept to Design Expert<br>💼 Real Projects Enthusiast<br>🚀 GATE & ECE Aspirant 📶<br>🔍 Mission-Driven Innovator<br>
 📄 Know about my experiences [Resume](https://crimson-krystalle-38.tiiny.site)
 
 
