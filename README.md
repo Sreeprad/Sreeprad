@@ -10,12 +10,12 @@
 
 <h3 align="left"><img src="animation/Developer.gif" width="4%">About me</h3>
 <ul>
-<li>I'm a 2nd year student, pursuing my B.Tech. in Electrical & Communication Engineering</li>
+<li>I'm a 3rd year student, pursuing my B.Tech. in Electrical & Communication Engineering</li>
 <li>🎓 Tech Grad 🛠️ PCB Design, Python</li>
 <li>🧠 Concept to Design Expert</li>
 <li>💼 Real Projects Enthusiast</li>
 <li>🚀 GATE & ECE Aspirant 📶</li>
-<li>📄 Know about my experiences[Resume](https://crimson-krystalle-38.tiiny.site)
+<li>📄 Know about my experiences[Resume](https://crimson-krystalle-38.tiiny.site)</li>
 </ul>
 <h3 align="left"><img src="animation/handshake-joypixels.gif" width="3%">Let's connect</h3>
 <p align="center">
