@@ -15,7 +15,7 @@
 <li>🧠 Concept to Design Expert</li>
 <li>💼 Real Projects Enthusiast</li>
 <li>🚀 GATE & ECE Aspirant 📶</li>
-<li>📄 Know about my experiences[Resume](https://crimson-krystalle-38.tiiny.site)</li>
+<li>📄 Know about my experiences[Resume]([https://crimson-krystalle-38.tiiny.site](https://kluniversityin-my.sharepoint.com/:b:/g/personal/2200040153_kluniversity_in/ESaC-BlNioNEjWULE2zBUQQBwfY_uRGxx31b1ajKhd-_9Q?e=IlZhFt))</li>
 </ul>
 <h3 align="left"><img src="animation/handshake-joypixels.gif" width="3%">Let's connect</h3>
 <p align="center">
