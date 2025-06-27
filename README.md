@@ -1,7 +1,7 @@
 [![MasterHead](animation/cityscape.gif)](https://github.com/Sreeprad)
 <h1 align="center">Hi <!--👋--><img alt="wave" width="40" src="animation/wave.gif">, I'm Manda Sreeprad</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Final Year Student+at+KL+University+Guntur"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Final+Year+Student+at+KL+University+Guntur"></a>
 </p>
 <img align="right" alt="Coding" width="300" src="animation/2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeprad&label=Profile%20views&color=0e75b6&style=flat" alt="sreeprad" /> </p>
